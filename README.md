@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Hals86
 
 - 👀 I’m interested in front-end development and learning to code.
-- 🌱 Currently learning Angular, React, React Native, JavaScript, Vue, Node, and Docker.
-- 🎓 So far, I've learned some CSS, JavaScript, Angular, React, and React Native.
+- 🌱 Currently learning Angular, React, React Native, JavaScript, Node, and Docker.
+- 🎓 So far, I've learned some CSS, JavaScript, React, and React Native.
 - 💞️ I’m looking to collaborate on projects or find an internship or junior position to further develop my skills.
 - 📫 How to reach me: 
   - Email: hlegarda86@gmail.com
