@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Hals86 | Full stack Developer
 
 - **🎯 Career Goal:** Actively seeking an **internship** or **Junior Developer** position to apply and expand my development skills.
-- **💻 Key Technologies:** Proficient in **JavaScript**, **CSS**, **React**, and **React Native** **Astro**.
-- **🌱 Currently Expanding Knowledge:** Actively studying **N8N**, **Node.js** **Python**, and **Docker**.
+- **💻 Key Technologies:** Proficient in **JavaScript**, **CSS**, **React**, and  **Astro**.
+- **🌱 Currently Expanding Knowledge:** Actively studying **N8N**, **Node.js** **Python**, **React Native**, **React** and **Docker**.
 - **🤝 Collaboration:** Interested in collaborating on **full stack** development projects.
 - **🧠 AI/ML Tools in Workflow:** Utilizing tools like **AI code assistants** (e.g., Cursor, GitHub Copilot) to enhance coding efficiency and explore **AI-driven design** 
 - **✉️ Contact:**
