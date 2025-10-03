@@ -1,12 +1,10 @@
-# 👋 Hi, I’m @Hals86
+# 👋 Hi, I’m @Hals86 | Full stack Developer
 
-- 👀 I’m interested in front-end development and learning to code.
-- 🌱 Currently learning Angular, React, React Native, JavaScript, Node, and Docker.
-- 🎓 So far, I've learned some CSS, JavaScript, React, and React Native.
-- 💞️ I’m looking to collaborate on projects or find an internship or junior position to further develop my skills.
-- 📫 How to reach me: 
-  - Email: hlegarda86@gmail.com
-  - Discord: Hugo Legarda
-- ⚡ Fun fact: I used to work in a phone repair shop and decided to dive into code after many years in the repair area.
-
-
+- **🎯 Career Goal:** Actively seeking an **internship** or **Junior Developer** position to apply and expand my development skills.
+- **💻 Key Technologies:** Proficient in **JavaScript**, **CSS**, **React**, and **React Native** **Astro**.
+- **🌱 Currently Expanding Knowledge:** Actively studying **N8N**, **Node.js** **Python**, and **Docker**.
+- **🤝 Collaboration:** Interested in collaborating on **full stack** development projects.
+- **✉️ Contact:**
+    - Email: hlegarda86@gmail.com
+    - Discord: Hugo Legarda
+- **💡 Background:** Transitioning from a technical career in repair and support to software development, which provides a strong foundation in **complex problem-solving** and **attention to detail**.
